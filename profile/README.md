@@ -35,7 +35,7 @@ Le Monopoly Financier Unipay.ma est une adaptation créative du jeu de Monopoly 
 
 ## Licence
 
-Ce jeu est publié sous la licence propriétaire  .
+Tous les droits sur le code source, le design et les éléments du jeu Monopoly Financier Unipay.ma sont réservés à [khalid laariche]. Aucune utilisation, distribution ou modification de ce code n'est autorisée sans la permission expresse de [khalid laariche].
 
 ---
 
